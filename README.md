@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenMcGit
-- 👀 I’m interested in developer productivity 🚀
+- 👀 I’m interested in adtech and developer productivity 🚀
 - 🌱 I’m currently learning about decentranlized application development 🧐
 - 💞️ I’m looking to collaborate on anything!
 
